@@ -1,11 +1,11 @@
 
 import './App.css'
-import Container from './Componentes/Container'
-import Flex from './Componentes/Flex'
-import Image from './Componentes/Image'
-import Menu from './Componentes/Menu'
-import Button from './Componentes/Button'
-import Heading from './componentes/Heading'
+import Container from './components/Container'
+import Flex from './components/Flex'
+import Image from './components/Image'
+import Menu from './components/Menu'
+import Button from './components/Button'
+import Heading from './components/Heading'
 import Bannerpic from '../src/assets/Bannerpic.png'
 import Point from '../src/assets/Point.png'
 import Logo from "../src/assets/Logo.png"
